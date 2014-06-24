@@ -1,0 +1,27 @@
+{
+  "name": "level-dulcimer",
+  "version": "0.0.0",
+  "description": "Wrapper for dulcimer levelup requirements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "rm -rf testdb && node_modules/nodeunit/bin/nodeunit tests/test.js && rm -rf testdb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fritzy/level-dulcimer.git"
+  },
+  "author": "Nathan Fritz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fritzy/level-dulcimer/issues"
+  },
+  "homepage": "https://github.com/fritzy/level-dulcimer",
+  "dependencies": {
+    "level-bucket": "0.0.1",
+    "level-2i": "0.0.3"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.0",
+    "concat-stream": "^1.4.6"
+  }
+}
