@@ -1,6 +1,6 @@
 {
   "name": "level-dulcimer",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Wrapper for dulcimer levelup requirements.",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/fritzy/level-dulcimer",
   "dependencies": {
-    "level-bucket": "0.0.4",
-    "level-2i": "0.0.5",
-    "level-increment": "0.0.1"
+    "level-bucket": "1.0.0",
+    "level-2i": "1.0.0",
+    "level-increment": "1.0.0",
+    "levelup": "^0.18.4"
   },
   "devDependencies": {
     "nodeunit": "^0.9.0",
