@@ -19,7 +19,7 @@
   "dependencies": {
     "level-bucket": "1.1.1",
     "level-2i": "1.1.0",
-    "level-increment": "0.1.0",
+    "level-increment": "0.2.0",
     "levelup": "^0.18.5",
     "level-bucketarray": "^1.0.0"
   },
