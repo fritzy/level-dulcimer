@@ -20,7 +20,7 @@
     "level-bucket": "1.1.0",
     "level-2i": "1.0.0",
     "level-increment": "0.0.1",
-    "levelup": "^0.18.4",
+    "levelup": "^0.18.5",
     "level-bucketarray": "^1.0.0"
   },
   "devDependencies": {
