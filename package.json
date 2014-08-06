@@ -20,7 +20,7 @@
     "level-bucket": "1.1.1",
     "level-2i": "1.2.1",
     "level-increment": "0.2.2",
-    "levelup": "^0.18.5",
+    "levelout": "1.0.0",
     "level-bucketarray": "^1.0.0",
     "level-foreignkeys": "2.0.1",
     "level-continuation": "0.0.2"
