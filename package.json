@@ -22,7 +22,7 @@
     "level-increment": "0.2.2",
     "levelout": "1.0.0",
     "level-bucketarray": "^1.0.0",
-    "level-foreignkeys": "2.1.1",
+    "level-foreignkeys": "2.1.2",
     "level-continuation": "0.0.2"
   },
   "devDependencies": {
