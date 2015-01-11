@@ -18,7 +18,7 @@
   "homepage": "https://github.com/fritzy/level-dulcimer",
   "dependencies": {
     "level-bucket": "1.1.2",
-    "level-2i": "1.2.2",
+    "level-2i": "1.2.3",
     "level-increment": "0.2.2",
     "levelout": "1.0.0",
     "level-bucketarray": "^1.0.0",
